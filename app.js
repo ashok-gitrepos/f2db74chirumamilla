@@ -9,7 +9,7 @@ var usersRouter = require('./routes/users');
 var dumbellRouter = require('./routes/dumbell');
 var gridbuildRouter = require('./routes/gridbuild');
 var selectorRouter = require('./routes/selector');
-
+  
 var app = express();
 
 // view engine setup
